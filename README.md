@@ -102,11 +102,3 @@ ROC curves and AUC scores were generated for all models to evaluate classificati
 - Spending-related features are strong predictors
 - Proper preprocessing improves overall accuracy
 
----
-
-## 🚀 Future Work
-- Hyperparameter tuning
-- Feature engineering from `Cabin`
-- Advanced models (XGBoost, LightGBM)
-- Cross-validation
-- Model deployment
